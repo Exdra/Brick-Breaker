@@ -1,0 +1,1 @@
+gcc src/main.c -o "BrickBreaker".exe -I include/ -L lib/ -lmsvcrt -lraylibdll -lOpenGL32 -lGdi32 -lWinMM -lkernel32 -lshell32 -lUser32 
